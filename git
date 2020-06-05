@@ -1,0 +1,1 @@
+once you have cloned the repos, change the cd to the repository you want ie cd PR2; then ls shows the files; the git remote show origin code.txt
