@@ -36,3 +36,5 @@ git branch newbranchname
 
 git checkout newbranchname
 #means you can now work in the new branch once you have cloned the repos, change the cd to the repository you want ie cd PR2; then ls shows the files; the git remote show origin
+to add to any file, then you do echo say what you want>> filename.filetype  note, if more than 1 word, use  ; you can make a new file if you just say >>new file name
+then do git add -A, then git commit -m and what you did, then git push, then refresh github
