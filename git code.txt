@@ -1,0 +1,38 @@
+Git functions
+
+git clone URL
+#use the URL from GitHub
+
+git dir
+#check whats in the repository/drive
+
+git add
+ 	git add file name
+#adds specific file name
+
+	git add .
+#adds all the files thats being worked on
+
+	git add -A
+#adds all the files
+
+git status
+#sees what action has been done or needs to be taken
+
+git commit .m "added file"
+#commits the file to the repository
+
+git push
+#syncs the file to GitHub cloud
+
+git pull
+#pulls in the info from GitHub cloud
+
+git branch
+#see where you are
+
+git branch newbranchname
+#adds a newbranchname
+
+git checkout newbranchname
+#means you can now work in the new branch 
