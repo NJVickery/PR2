@@ -35,4 +35,4 @@ git branch newbranchname
 #adds a newbranchname
 
 git checkout newbranchname
-#means you can now work in the new branch 
+#means you can now work in the new branch once you have cloned the repos, change the cd to the repository you want ie cd PR2; then ls shows the files; the git remote show origin
